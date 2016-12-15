@@ -1,0 +1,44 @@
+CREATE TABLE photo (
+    _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    photo_id TEXT UNIQUE NOT NULL,
+    image_path TEXT,
+    comment TEXT,
+    create_date TEXT,
+    photo_data TEXT,
+    url TEXT,
+    location_code TEXT,
+    record_id TEXT,
+    reason TEXT,
+    username TEXT,
+    reference TEXT NOT NULL,
+    task_id TEXT NOT NULL,
+    is_sent INTEGER AS Boolean NOT NULL DEFAULT 0
+);
+
+-- Further SQL statements are proceeded by an identifier. This will be used to name the constant
+
+-- in the generated Java code.
+
+create_task_id_index:
+CREATE INDEX photo_task_id_index ON photo(task_id);
+
+create_photo_id_index:
+CREATE INDEX photo_photo_id_index ON photo(photo_id);
+
+create_reference_index:
+CREATE INDEX photo_reference_index ON photo(reference);
+
+select_by_task_id:
+SELECT *
+FROM photo
+WHERE task_id = ?;
+
+select_by_reference:
+SELECT *
+FROM photo
+WHERE reference = ?;
+
+update_is_send_status:
+UPDATE photo
+SET is_sent = ?
+WHERE photo_id = ?;

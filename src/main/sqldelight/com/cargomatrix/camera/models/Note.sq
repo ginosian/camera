@@ -1,0 +1,24 @@
+CREATE TABLE note (
+    _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    note_id TEXT UNIQUE NOT NULL,
+    comment TEXT,
+    type TEXT,
+    severity INTEGER AS Integer NOT NULL,
+    x REAL AS Float NOT NULL DEFAULT -1,
+    y REAL AS Float NOT NULL DEFAULT -1,
+    photo_id TEXT NOT NULL,
+    FOREIGN KEY(photo_id) REFERENCES photo(photo_id) ON DELETE CASCADE ON UPDATE CASCADE
+);
+
+-- Further SQL statements are proceeded by an identifier. This will be used to name the constant
+
+-- in the generated Java code.
+
+create_photo_id_index:
+CREATE INDEX note_photo_id_index
+ON note(photo_id);
+
+select_by_photo_id:
+SELECT *
+FROM note
+WHERE photo_id = ?;

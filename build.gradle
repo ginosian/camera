@@ -1,0 +1,35 @@
+apply plugin: 'com.android.library'
+apply plugin: 'com.squareup.sqldelight'
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersionCamera
+    buildToolsVersion rootProject.ext.buildToolsVersionCamera
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.minSdkCamera
+        targetSdkVersion rootProject.ext.targetSdkCamera
+        versionCode rootProject.ext.versionCodeCamera
+        versionName rootProject.ext.versionNameCamera
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile project(':components')
+    compile 'com.android.support:appcompat-v7:' + rootProject.ext.supportLibVersion
+    compile 'com.android.support:support-v4:' + rootProject.ext.supportLibVersion
+    compile 'com.android.support:design:' + rootProject.ext.supportLibVersion
+    compile 'com.android.support:support-annotations:' + rootProject.ext.supportLibVersion
+    compile 'org.jetbrains:annotations-java5:' + rootProject.ext.jetbrainsAnnotation
+    compile 'com.makeramen:roundedimageview:' + rootProject.ext.roundedImageViewVersion
+    compile 'com.davemorrissey.labs:subsampling-scale-image-view:' + rootProject.ext.scaleImageViewVersion
+    compile 'com.github.bumptech.glide:glide:' + rootProject.ext.glideVersion
+
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:' + rootProject.ext.jUnitVersion
+}

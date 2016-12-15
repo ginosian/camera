@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Camera</string>
+
+    <!-- Photo Capture Fragment -->
+    <string name="settings">Settings</string>
+    <string name="message_no_permissions_snackbar">To take a picture and save it, allow
+        camera and storage permissions.</string>
+
+    <!-- Annotation Settings Fragment -->
+    <string name="comment">Comment</string>
+    <string-array name="types">
+        <item name="bent">Bent</item>
+        <item name="broken">Broken</item>
+        <item name="torn">Torn</item>
+        <item name="water_damage">Water damage</item>
+    </string-array>
+
+    <!-- Messages -->
+    <string name="message.item_moved_to_trash">Item moved to trash</string>
+
+    <!-- Errors -->
+    <string name="error.title.camera">Camera error</string>
+    <string name="error.message.camera">Can\'t connect to the camera.</string>
+
+    <!-- Dialog Buttons -->
+    <string name="dialog.action.discard">Discard</string>
+
+    <!-- Warnings -->
+    <string name="warning.message.discard_image">Discard image?</string>
+
+    <!-- Menus -->
+    <string name="menu.action.delete">Delete</string>
+    <string name="menu.action.share">Share</string>
+    <string name="menu.action.undo">Undo</string>
+    <string name="menu.action.visibility">Visibility</string>
+
+    <!-- Hints -->
+    <string name="hint.comment">Add your comment here.</string>
+</resources>

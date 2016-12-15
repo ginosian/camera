@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/camera_preview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/photo_preview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@null"
+            android:visibility="gone" />
+
+    </FrameLayout>
+
+    <View
+        android:id="@+id/dark_overlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.6"
+        android:background="@android:color/black"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/close_button"
+        android:layout_width="@dimen/button_height_normal"
+        android:layout_height="@dimen/button_height_normal"
+        android:layout_alignParentStart="true"
+        android:layout_margin="@dimen/spacing_normal"
+        android:contentDescription="@null"
+        android:padding="@dimen/spacing_tiny"
+        android:src="@drawable/close_button_icon" />
+
+    <ImageView
+        android:id="@+id/capture_button"
+        android:layout_width="@dimen/button_height_huge"
+        android:layout_height="@dimen/button_height_huge"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/spacing_normal"
+        android:contentDescription="@null"
+        android:src="@drawable/capture_button_icon" />
+
+    <FrameLayout
+        android:id="@+id/icon_gallery_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/capture_button"
+        android:layout_alignTop="@id/capture_button"
+        android:layout_toEndOf="@id/capture_button"
+        android:visibility="gone">
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/icon_gallery"
+            android:layout_width="@dimen/button_height_tall"
+            android:layout_height="@dimen/button_height_tall"
+            android:layout_gravity="center"
+            android:contentDescription="@null"
+            android:scaleType="centerCrop"
+            app:riv_border_color="@color/white"
+            app:riv_border_width="@dimen/radius_small"
+            app:riv_corner_radius="@dimen/radius_small" />
+    </FrameLayout>
+
+    <ImageView
+        android:id="@+id/done_button"
+        android:layout_width="@dimen/button_height_normal"
+        android:layout_height="@dimen/button_height_normal"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="@dimen/spacing_normal"
+        android:contentDescription="@null"
+        android:padding="@dimen/spacing_tiny"
+        android:src="@drawable/done_button_icon"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/buttons_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/info_button"
+            android:layout_width="@dimen/button_height_normal"
+            android:layout_height="@dimen/button_height_normal"
+            android:layout_margin="@dimen/spacing_normal"
+            android:contentDescription="@null"
+            android:padding="@dimen/spacing_tiny"
+            android:src="@drawable/info_button_icon"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/properties_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/buttons_container"
+        android:layout_below="@id/close_button" />
+
+</RelativeLayout>

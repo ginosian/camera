@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.2.1\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.2.1\\res\\raw\\gtm_analytics"
+    }
+]

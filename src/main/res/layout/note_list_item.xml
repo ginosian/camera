@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.margin.camera.views.NoteView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/note_background"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/note_blank">
+
+    <TextView
+        android:id="@+id/note_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/spacing_small"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/font_large"
+        android:textStyle="bold" />
+
+</com.margin.camera.views.NoteView>

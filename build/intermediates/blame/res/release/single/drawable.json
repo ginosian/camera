@@ -1,0 +1,666 @@
+[
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\visibility_on_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\visibility_on_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\visibility_on_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\visibility_on_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\text_photo_gallery_background.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\text_photo_gallery_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\add_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\add_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\back_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\back_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\overflow_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\overflow_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\comment_button_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\comment_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\line_divider.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\mgms_l-android\\components\\unspecified\\res\\drawable\\line_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\capture_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\capture_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\note_blank.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\note_blank.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\overflow_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\overflow_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\visibility_off_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\visibility_off_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\note_orange.9.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\note_orange.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\note_green.9.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\note_green.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\done_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\done_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\stepper_item_selected.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\mgms_l-android\\components\\unspecified\\res\\drawable\\stepper_item_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\close_button_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\close_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\info_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\info_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\visibility_on_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\visibility_on_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\note_orange.9.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\note_orange.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\close_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\close_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\note_green.9.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\note_green.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\add_note_button_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\add_note_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\comment_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\comment_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\overflow_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\overflow_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\capture_button_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\capture_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\info_button_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\info_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\note_red.9.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\note_red.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\visibility_on_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\visibility_on_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\stepper_item_unselected.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\mgms_l-android\\components\\unspecified\\res\\drawable\\stepper_item_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\done_button_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\done_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\back_button_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\back_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\close_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\close_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\add_note_button_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\add_note_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\overflow_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\overflow_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\capture_button_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\capture_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\done_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\done_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\close_button_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\close_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\close_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\close_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\add_note_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\add_note_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\done_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\done_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\back_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\back_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\comment_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\comment_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\capture_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\capture_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\visibility_off_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\visibility_off_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\visibility_on_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\visibility_on_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\back_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\back_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\overflow_button_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\overflow_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\delete_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\delete_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\comment_button_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\comment_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\visibility_off_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\visibility_off_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\comment_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\comment_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\back_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\back_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\add_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\add_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\info_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\info_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\visibility_off_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\visibility_off_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\capture_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\capture_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\visibility_on_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\visibility_on_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\delete_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\delete_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\close_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\close_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\info_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\info_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\note_red.9.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\note_red.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\info_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\info_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\visibility_off_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\visibility_off_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\done_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\done_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\add_note_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\add_note_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\text_photo_gallery_background.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\text_photo_gallery_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\delete_button_normal.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\delete_button_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\capture_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\capture_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\stepper_item_unselected.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\mgms_l-android\\components\\unspecified\\res\\drawable\\stepper_item_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\overflow_button_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\overflow_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\visibility_off_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\visibility_off_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\comment_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\comment_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\line_divider.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\mgms_l-android\\components\\unspecified\\res\\drawable\\line_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\stepper_item_selected.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\exploded-aar\\mgms_l-android\\components\\unspecified\\res\\drawable\\stepper_item_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\delete_button_icon.xml",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\delete_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\note_blank.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\note_blank.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\done_button_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\done_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\back_button_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\UniversalTracker\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\back_button_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\build\\intermediates\\res\\merged\\release\\drawable\\info_button_active.png",
+        "source": "C:\\Users\\Marta.Ginosyan\\Documents\\MyProjects\\Tracking\\New folder\\Components\\android-widget-camera\\camera\\src\\main\\res\\drawable\\info_button_active.png"
+    }
+]

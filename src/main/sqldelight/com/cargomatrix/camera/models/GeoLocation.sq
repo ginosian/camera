@@ -1,0 +1,21 @@
+CREATE TABLE geo_location (
+    _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    longitude REAL AS Double NOT NULL,
+    latitude REAL AS Double NOT NULL,
+    photo_id TEXT NOT NULL,
+    FOREIGN KEY(photo_id) REFERENCES photo(photo_id) ON DELETE CASCADE ON UPDATE CASCADE
+);
+
+-- Further SQL statements are proceeded by an identifier. This will be used to name the constant
+
+-- in the generated Java code.
+
+create_photo_id_index:
+CREATE INDEX geo_location_photo_id_index
+ON geo_location(photo_id);
+
+select_by_photo_id:
+SELECT *
+FROM geo_location
+WHERE photo_id = ?
+LIMIT 1;
